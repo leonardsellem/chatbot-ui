@@ -1,4 +1,4 @@
 # Supabase
 .branches
 .temp
-migrations
+migrations-prod
